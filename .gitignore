@@ -15,8 +15,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
-2DPlatformer/Library
-2DPlatformer/Temp
+
 
 # External tool builders
 .externalToolBuilders/
